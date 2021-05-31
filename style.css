@@ -1,0 +1,81 @@
+.tema {
+    color:white;
+    text-align: bold;
+    background-color: black;
+}
+
+.jarak{
+    padding-top: 2rem;
+}
+
+.jarak-semua{
+    padding: 1rem;
+}
+
+.fotter{
+    background-color: #005B66;
+}
+
+.jarak2{
+    padding-top: 1rem;
+}
+
+.font-blue{
+    color: white;
+}
+
+div .link a{
+    color:white;
+    text-decoration: none;
+    
+}
+div .link h4{
+    color: wheat;
+}
+
+div .link a:link, a:visited{
+    text-size-adjust: 2px;
+}
+[src="img/appstore.png"]{
+    width: 200px;
+    height: 50px;
+    margin-left:10em;
+}
+
+[src="img/playstore.png"]{
+    width: 200px;
+    height: 50px;
+    margin-left: em;
+    margin-right: 15em;
+}
+
+[src="img/twitter.png"],[src="img/instagram-white.png"],[src="img/youtube-white.png"], [src="img/tiktok-white.png"] {
+    width: 60px;
+    height: 30px;
+}
+
+
+.bg {
+    background-color: burlywood;
+    border: 1px solid black;
+        
+}
+
+.nanda {
+    border: 1px solid black;
+    position: relative;
+    width: 1000px;
+    height: 1000px;
+}
+
+.nanda img {
+    width: 1000px;
+    height: 1000px;
+}
+
+.baskara {
+    position: absolute;
+    color: black;
+    top: 500px;
+    left: 500px;
+}
